@@ -57,9 +57,9 @@ Atualmente em transição/expansão para desenvolvimento backend, com foco em Py
 
 ## 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO\&show_icons=true\&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karinschiochet\&show_icons=true\&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO\&layout=compact\&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karinschiochet\&layout=compact\&theme=dark)
 
 ---
 
